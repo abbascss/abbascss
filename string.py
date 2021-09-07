@@ -1,0 +1,2 @@
+Abbas="rajeshintelligent"
+type(Abbas)
